@@ -1,0 +1,8 @@
+name: ChangeMe
+version: '${version}'
+main: com.playfuni.ChangeMe.ChangeMe
+api-version: 1.19
+commands:
+  heal:
+    description: Heal yourself
+    usage: /heal
